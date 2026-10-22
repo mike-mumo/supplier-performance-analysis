@@ -1,0 +1,9 @@
+SupplierID,SupplierName,Region,PaymentTermsDays,Tier
+SUP01, Rift Valley Packaging ,Rift,30,Gold
+SUP02,Mombasa Imports Ltd,Coast,45,Silver
+SUP03,Kisumu Agro Supplies,Western,30,Bronze
+SUP04,Nairobi Industrial Parts,Nairobi,60,Gold
+SUP05,Eldoret Foods Co,Rift,30,Silver
+SUP06,Nakuru Plastics,Rift,45,Bronze
+SUP07,Thika Textiles,Central,30,Silver
+SUP08,Coast Chemicals,Coast,60,Gold
